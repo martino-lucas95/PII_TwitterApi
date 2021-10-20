@@ -10,7 +10,7 @@ namespace TwitterUCU
             var twitter = new TwitterImage();
             Console.WriteLine(twitter.PublishToTwitter("New Employee 2! ",@"bill2.jpg"));
             var twitterDirectMessage = new TwitterMessage();
-            Console.WriteLine(twitterDirectMessage.SendMessage("Hola!", "122237423"));
+            Console.WriteLine(twitterDirectMessage.SendMessage("Hola!", "249011461"));
         }
     }
 }
